@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+A flutter project where I am implement hacker news api.
 
 ## Getting Started
 
